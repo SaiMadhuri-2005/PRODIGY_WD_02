@@ -1,0 +1,25 @@
+.stopwatch {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
